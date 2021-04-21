@@ -19,7 +19,7 @@ status-website:
 
   baseUrl: /status
   logoUrl: https://github.com/maximousblk.png
-  themeUrl: https://example.com/my-custom-theme.css
+  themeUrl: https://github.com/nestdotland/status/raw/master/assets/theme.css
 
   favicon: https://github.com/maximousblk.png
 

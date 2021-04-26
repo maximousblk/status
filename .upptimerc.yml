@@ -7,12 +7,21 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+
+  - name: Maximous Black
+    url: https://maximousblk.me
+    icon: https://maximousblk.me/favicon.ico
+
+  - name: Nest Land
+    url: https://nest.land
+    icon: https://nest.land/images/nest.land/favicon_light.svg
+
+  - name: Deno
+    url: https://nest.land
+    icon: https://deno.land/favicon.ico
+
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: this.site.does.not.exist
 
 status-website:
   name: Status Page

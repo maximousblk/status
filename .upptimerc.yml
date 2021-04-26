@@ -14,7 +14,7 @@ sites:
 
   - name: Nest Land
     url: https://nest.land
-    icon: https://nest.land/images/nest.land/favicon_light.svg
+    icon: https://docs.nest.land/img/logo.svg
 
   - name: Deno
     url: https://nest.land

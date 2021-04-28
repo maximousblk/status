@@ -17,7 +17,7 @@ sites:
     icon: https://docs.nest.land/img/logo.svg
 
   - name: Deno
-    url: https://nest.land
+    url: https://deno.land
     icon: https://deno.land/favicon.ico
 
   - name: Test Broken Site

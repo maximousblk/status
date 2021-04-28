@@ -22,45 +22,49 @@
     "url": "https://maximousblk.me",
     "icon": "https://maximousblk.me/favicon.ico",
     "slug": "maximous-black",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 92,
     "timeDay": 54,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-28": 1
+    }
   },
   {
     "name": "Nest Land",
     "url": "https://nest.land",
     "icon": "https://docs.nest.land/img/logo.svg",
     "slug": "nest-land",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 70,
     "timeDay": 77,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-28": 0
+    }
   },
   {
     "name": "Deno",
     "url": "https://nest.land",
     "icon": "https://deno.land/favicon.ico",
     "slug": "deno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 8,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-28": 0
+    }
   },
   {
     "name": "Test Broken Site",
